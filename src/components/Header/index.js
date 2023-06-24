@@ -46,7 +46,7 @@ export const Header = (prop) => {
             <div class="header__content container">
                 <div class="site-logo"></div>
                 <nav class="inline-nav">
-                    <a href="">Hlavní stránka</a>
+                    <a href="/">Hlavní stránka</a>
                 </nav>
             </div>
         </header>
