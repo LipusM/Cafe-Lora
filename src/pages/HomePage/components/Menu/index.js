@@ -29,7 +29,7 @@ export const Menu = (prop) => {
     orderDetail.classList.add("order-detail")
   
     orderDetail.innerHTML = `
-    <a href="/objednavka">Detail objednávky</a>
+    <a href="objednavka">Detail objednávky</a>
     `
     element.querySelector(".container").append(orderDetail)
 
